@@ -1,5 +1,5 @@
 use geo::Coordinate;
-use rust_macro::editor_plugin;
+use editall_macro::editor_plugin;
 
 use super::plugin::Plugin;
 

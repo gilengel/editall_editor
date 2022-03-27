@@ -1,7 +1,7 @@
 use std::any::Any;
 
 use geo::Coordinate;
-use rust_internal::PluginExecutionBehaviour;
+use editall_internal::PluginExecutionBehaviour;
 use web_sys::CanvasRenderingContext2d;
 use yew::{html, Context, Html};
 

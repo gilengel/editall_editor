@@ -1,6 +1,6 @@
 use crate::ui::dialog::Dialog;
 use gloo_render::{request_animation_frame, AnimationFrame};
-use rust_internal::PluginExecutionBehaviour;
+use editall_internal::PluginExecutionBehaviour;
 use std::any::Any;
 use std::cell::RefCell;
 use std::collections::{BTreeMap, HashMap};

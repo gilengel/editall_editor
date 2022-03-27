@@ -1,4 +1,4 @@
-use rust_macro::editor_plugin;
+use editall_macro::editor_plugin;
 
 use crate::{actions::Action, ui::{app::{EditorError, Shortkey}, toolbar::ToolbarPosition}, keys};
 
